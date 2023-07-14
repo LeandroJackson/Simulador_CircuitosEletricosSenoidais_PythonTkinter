@@ -56,6 +56,7 @@ Além disso, é necessário ter as seguintes bibliotecas instaladas (Estás bibl
 
 Certifique-se de instalar as bibliotecas acima usando o gerenciador de pacotes `pip` antes de executar o simulador.
 
-## Contribuição
+## Nota
 
-Se você deseja contribuir para o desenvolvimento do simulador de circuitos elétricos senoidais com Tkinter, sinta-se à vontade para fazer u
+Este projeto foi feito como parte da disciplina Eletricidade Para Computação II, no curso de Engenharia Da Computação na Universidade Federal da Paraíba.
+
